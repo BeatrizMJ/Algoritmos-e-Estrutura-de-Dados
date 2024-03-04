@@ -1,10 +1,5 @@
 <h1 align="center">A Importância de Algoritmos e Estruturas de Dados 💻</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue" alt="Language">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-</p>
-
 ## 🚀 Introdução
 A matéria de algoritmos e estruturas de dados é fundamental para qualquer pessoa que deseje se tornar um bom programador ou desenvolvedor de software. Ela ensina conceitos essenciais que são a base para a resolução eficiente de problemas computacionais.
 
