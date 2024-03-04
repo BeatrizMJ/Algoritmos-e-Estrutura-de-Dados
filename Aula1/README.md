@@ -10,7 +10,7 @@ A importância da estrutura de dados se resume na sua capacidade de otimizar o u
 - **Array Estático:** Armazena elementos do mesmo tipo em posições de memória adjacentes com tamanho fixo.
   - **Exemplo:** Declaração em código: `int[] meses = new int[12]`.
 - **Array Dinâmico:** Similar ao array estático, mas com tamanho flexível ajustável durante a execução do programa.
-  - **Exemplo:** Declaração em código: `int[] contatos; // declaração` + Método construtor: `this.contatos = new int[10]`.
+  - **Exemplo:** Declaração em código: `int[] contatos;` + Método construtor: `this.contatos = new int[10]`.
 - **Lista:** Armazena elementos em nós ligados, permitindo inserções e remoções eficientes em qualquer posição.
   - **Exemplo:** Linked list.
 - **Fila:** Segue a política "FIFO" (First In, First Out), onde o primeiro elemento inserido é o primeiro a ser removido.
