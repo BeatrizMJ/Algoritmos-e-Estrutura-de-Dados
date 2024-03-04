@@ -1,6 +1,6 @@
-## <h1 align="center">A Importância de Algoritmos e Estruturas de Dados 💻</h1>
+<h1 align="center">A Importância de Algoritmos e Estruturas de Dados 💻</h1>
 
-## 🚀 Introdução
+   🚀 Introdução
 A matéria de algoritmos e estruturas de dados é fundamental para qualquer pessoa que deseje se tornar um bom programador ou desenvolvedor de software. Ela ensina conceitos essenciais que são a base para a resolução eficiente de problemas computacionais.
 
 ## 💡 O Que São Algoritmos e Estruturas de Dados?
