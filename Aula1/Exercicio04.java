@@ -1,4 +1,3 @@
-
 /*
  * Motivo da utilização da fila como estrutura de dados para esse exercício:
  * Escolhi a fila pois o padrão fila, ou queue, é uma estrutura de dados que segue o princípio "primeiro a entrar, primeiro a sair" (FIFO - First-In-First-Out).
