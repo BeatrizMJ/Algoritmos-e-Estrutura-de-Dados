@@ -133,7 +133,7 @@ public class Exercicio02 {
             System.out.println("6 - Finalizar");
 
             opcao = ex02.input.nextInt();
-            ex02.input.nextLine(); 
+            ex02.input.nextLine(); // Consumes newline character
         }
         System.out.println("Programa finalizado.");
         ex02.input.close();
