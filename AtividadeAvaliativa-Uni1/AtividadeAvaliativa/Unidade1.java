@@ -22,7 +22,7 @@ public class Unidade1 {
 
     public boolean remover() {
         if (!fila.isEmpty()) {
-            fila.poll(); // Remove caso a fila não estiver vazia
+            fila.poll(); 
             return true;
         }
         return false;
