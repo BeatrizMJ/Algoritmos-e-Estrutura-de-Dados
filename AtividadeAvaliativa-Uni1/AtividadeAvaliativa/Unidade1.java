@@ -1,10 +1,9 @@
 package AtividadeAvaliativa;
-
+//@autor Beatriz Moresco Joaquim
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-//@autor Beatriz Moresco Joaquim
 public class Unidade1 {
     private Queue<Tarefas> fila;
     static Scanner input = new Scanner(System.in);
